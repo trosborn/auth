@@ -1,0 +1,5 @@
+Rails Authentication From Scratch
+
+=================================
+
+Implements a user authentication setup, following Railscast 250
